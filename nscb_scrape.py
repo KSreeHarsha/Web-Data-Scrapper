@@ -18,9 +18,6 @@ import datetime
 # 3rd party imports.
 from bs4 import BeautifulSoup
 
-
-
-
 # Globals.
 SLEEP_TIME = 5
 MAX_TRIES = 10
